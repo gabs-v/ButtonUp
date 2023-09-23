@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+.search, .add, .create{
+    margin: 2em;
+    padding: .5em;
+}
+.search{
+    width: 10em;
+    border-color: blueviolet;
+    color: blueviolet;
+    border-style: solid; 
+    background-color: beige;
+}
+.add{
+    border-style: solid;
+    border-radius: 50%;
+    text-align: center;
+    color: brown;
+    background-color: lightcyan;
+    border-color: lightblue;
+}
+.create{
+    width: 12em;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    background-color: rgb(106, 106, 159);
+    color: white;
+    border: solid black;
+    box-shadow: 3px 3px 3px black;
+    font-size: small;
+}
